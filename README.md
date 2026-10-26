@@ -118,3 +118,5 @@ Pull requests that do not adhere to the contribution guidelines may be closed.
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
+
+- [Ideoy](https://ideoy.ai) - AI meme / viral video template generator (remake trending short-form templates from one photo/selfie)
